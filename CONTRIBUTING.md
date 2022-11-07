@@ -1,6 +1,7 @@
 # Contributing
 
 Your contributions are always welcome!
+Bitte sende ein Email an mihai.coanda@gmx.de
 
 ## Guidelines
 
